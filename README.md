@@ -50,8 +50,8 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 <img width="1270" height="758" alt="Screenshot 2025-10-28 161144" src="https://github.com/user-attachments/assets/546784a5-8f5c-4fc9-b4eb-0a73165969ea" />
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1037" height="643" alt="Screenshot 2025-10-28 160910" src="https://github.com/user-attachments/assets/9a3a9cbf-fe94-458e-9ff4-7d02d90e40a2" />
+TIMING DIAGRAM
+<img width="1037" height="609" alt="Screenshot 2025-10-28 161613" src="https://github.com/user-attachments/assets/708bf266-1b66-43e7-8aab-ecef06609d21" />
 
 **RESULTS**
 Thus the D flipflop is implemented and verified.
