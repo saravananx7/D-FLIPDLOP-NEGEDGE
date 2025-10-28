@@ -47,15 +47,11 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 <img width="420" height="219" alt="Screenshot 2025-10-28 160635" src="https://github.com/user-attachments/assets/4836c56d-10ff-4397-a2e9-baa6abb95ce6" />
 
 **RTL LOGIC FOR FLIPFLOPS**
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c9d80a63-09c5-44c0-a004-a89d0f9bf556" />
 
-
+<img width="1270" height="758" alt="Screenshot 2025-10-28 161144" src="https://github.com/user-attachments/assets/546784a5-8f5c-4fc9-b4eb-0a73165969ea" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="1037" height="643" alt="Screenshot 2025-10-28 160910" src="https://github.com/user-attachments/assets/9a3a9cbf-fe94-458e-9ff4-7d02d90e40a2" />
-
-
-
 
 **RESULTS**
 Thus the D flipflop is implemented and verified.
